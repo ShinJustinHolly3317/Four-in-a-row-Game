@@ -9,4 +9,4 @@ A advanced version of Tic-Tac-Toe
 1. Default: 2 players
 2. If there is a row of 4 balls, which is in no matter horizontal / vertical / diagonal type.
 
-Pretty simple, get started!
+[Pretty simple, get started!](https://shinjustinholly3317.github.io/Game_Four-in-a-row/)
