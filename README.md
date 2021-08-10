@@ -1,8 +1,8 @@
 # Game_Four-in-a-row
 A advanced version of Tic-Tac-Toe
----
+
 ## How to play
-1. Use left ← / right → key to move
+1. Use left ← / right → to move
 2. Use down ↓ to drop the ball
 
 ## How to win
